@@ -9,6 +9,12 @@ But there's some extra works during the build, which is you have to include the 
 I didn't use it myself, so please don't expect any support from me.
 Why it's here explained below.
 
+The database are written with Database Browser for SQLite (http://sqlitebrowser.org/).
+So there's no "create" query.
+Only write to change value of existing tables.
+
+Until I really use this, sorry for all the inconvenient. :(
+
 The codes are assembled from all around the internet.
 Some don't even put names to be credited here.
 Make it worst, this codes are from the year early 2014 and I lost all the references to it.
@@ -20,5 +26,7 @@ Best regards,
 
 
 Pangeran Wiguan
+
 http://pangeranwiguan.com
+
 http://wgcreativemedia.com
