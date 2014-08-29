@@ -2,8 +2,10 @@ W.G.-Unity3D-SQLite
 ===================
 
 SQLite Database code for Unity3D independent version.
+
 This is a working code with a scene example of how to implement it.
 It was designed to be SO EASY and READY TO RUN.
+
 But there's some extra works during the build, which is you have to include the database manually into your build source folder.
 
 I didn't use it myself, so please don't expect any support from me.
