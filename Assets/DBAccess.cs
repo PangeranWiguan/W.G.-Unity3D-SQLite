@@ -9,6 +9,8 @@ public class DBAccess : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+		Debug.Log (Application.dataPath + "/GameMaster");
+
 		string connectionString = "URI=file:" +Application.dataPath + "/GameMaster"; //Path to database.
 		IDbConnection dbcon;
 		dbcon = (IDbConnection) new SqliteConnection(connectionString);
@@ -38,6 +40,8 @@ public class DBAccess : MonoBehaviour {
 		dbcmd = null;
 		dbcon.Close();
 		dbcon = null;
+
+		//Debug.Log (dbcon);
 	
 	}
 	
