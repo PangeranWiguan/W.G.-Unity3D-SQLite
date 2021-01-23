@@ -23,12 +23,6 @@ Make it worst, this codes are from the year early 2014 and I lost all the refere
 But I always got requests for this through emails, and sometimes I reply very late, thus why it's here.
 For the convenient of users.
 
-
 Best regards,
 
-
 Pangeran Wiguan
-
-http://pangeranwiguan.com
-
-http://wgcreativemedia.com
